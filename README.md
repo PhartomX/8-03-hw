@@ -51,12 +51,15 @@ build:
    - netology
 ```
 
-Пушим репозиторий в GitLab
+Пушим репозиторий в GitLab:
 ![img2](https://github.com/PhartomX/8-03-hw/blob/main/img/img2.png)`
 
+'Cкриншоты с успешно собранными сборками:
 
 ![img3](https://github.com/PhartomX/8-03-hw/blob/main/img/img3.png)`
+
 ![img4](https://github.com/PhartomX/8-03-hw/blob/main/img/img4.png)`
+
 ![img5](https://github.com/PhartomX/8-03-hw/blob/main/img/img5.png)`
 
 ---
