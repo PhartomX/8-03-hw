@@ -12,7 +12,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 
-![img1](https://github.com/PhartomX/8-03-hw/blob/main/img/img1.png)`
+![img1](https://github.com/PhartomX/8-03-hw/blob/main/img/img1.png)
 
 
 ---
@@ -35,7 +35,7 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+
 ![img2](https://github.com/PhartomX/8-03-hw/blob/main/img/img2.png)`
 
 
