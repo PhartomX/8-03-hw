@@ -54,7 +54,7 @@ build:
 Пушим репозиторий в GitLab:
 ![img2](https://github.com/PhartomX/8-03-hw/blob/main/img/img2.png)`
 
-'Cкриншоты с успешно собранными сборками:
+Cкриншоты с успешно собранными сборками:
 
 ![img3](https://github.com/PhartomX/8-03-hw/blob/main/img/img3.png)`
 
