@@ -28,15 +28,35 @@
 
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+.gitlab-ci.yml:
+
+stages:
+  - test
+  - build
+ 
+test:
+  stage: test
+  image: golang:1.17
+  script:
+   - go test .
+  tags: 
+    - netology
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+  tags: 
+   - netology
 ```
 
-
+Пушим репозиторий в GitLab
 ![img2](https://github.com/PhartomX/8-03-hw/blob/main/img/img2.png)`
 
+
+![img3](https://github.com/PhartomX/8-03-hw/blob/main/img/img3.png)`
+![img4](https://github.com/PhartomX/8-03-hw/blob/main/img/img4.png)`
+![img5](https://github.com/PhartomX/8-03-hw/blob/main/img/img5.png)`
 
 ---
